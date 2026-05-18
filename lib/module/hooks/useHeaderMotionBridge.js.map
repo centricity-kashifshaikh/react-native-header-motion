@@ -1,0 +1,1 @@
+{"version":3,"names":["useHeaderMotionContextOrThrow","useHeaderMotionBridge"],"sourceRoot":"../../../src","sources":["hooks/useHeaderMotionBridge.ts"],"mappings":";;AAAA,SAASA,6BAA6B,QAAQ,eAAY;AAG1D;AACA;AACA;AACA;AACA;AACA;AACA;AACA,OAAO,SAASC,qBAAqBA,CAAA,EAA4B;EAC/D,OAAOD,6BAA6B,CAClC,2LACF,CAAC;AACH","ignoreList":[]}

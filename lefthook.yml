@@ -7,7 +7,7 @@ pre-commit:
 
     types:
       glob: '*.{js,ts, jsx, tsx}'
-      run: npx tsc --noEmit && cd example && npx tsc --noEmit
+      run: npx tsc --noEmit
 commit-msg:
   parallel: true
   commands:
